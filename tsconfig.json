@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/Header/Organisms/NavBar.jsx", "app/components/Header/Molecules/NavLogo.jsx", "app/components/Header/Molecules/LinkContainer.jsx", "app/components/Header/Molecules/Hamburger.jsx", "app/components/Header/Atoms/Title.jsx", "app/components/Header/Atoms/NavLink.jsx", "app/components/Header/Atoms/Logo.jsx", "app/components/Footer/FooterBar.jsx", "app/hunder/australsk-gjeterhund/page.jsx", "app/hunder/page.jsx", "app/kaniner/page.jsx", "app/katter/page.jsx", "app/layout.jsx", "app/page.jsx"],
   "exclude": ["node_modules"]
 }
